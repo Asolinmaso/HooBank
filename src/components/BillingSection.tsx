@@ -1,4 +1,3 @@
-// components/BillingSection.js
 import Image from 'next/image';
 
 export const BillingSection = () => {
