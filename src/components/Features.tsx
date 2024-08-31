@@ -11,10 +11,10 @@ export const FeatureSection = () => {
           <p className="text-base sm:text-lg mb-8">
             With the right credit card, you can improve your financial life by building credit, earning rewards, and saving money. But with hundreds of credit cards on the market...
           </p>
-          <div className="w-full sm:w-[75%] md:w-[50%]">
-            <button className="bg-teal-400 text-gray-900 px-4 py-3 rounded-md font-semibold w-full">
-              Get Started
-            </button>
+          <div className="w-full">
+          <button className="mt-6 md:mt-0 bg-teal-400 text-gray-900 px-6 py-3 rounded-lg font-semibold">
+            Get Started
+          </button>
           </div>
         </div>
 
