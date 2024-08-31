@@ -12,9 +12,9 @@ export const CardDealSection = () => {
             Arcu tortor, purus in mattis at sed integer faucibus. Aliquet quis aliquet eget mauris tortor. Aliquet ultrices ac, ametau.
           </p>
           <div className="w-full">
-            <button className="bg-teal-400 text-gray-900 px-6 py-3 rounded-md font-semibold w-full sm:w-auto">
-              Get Started
-            </button>
+          <button className="mt-6 md:mt-0 bg-teal-400 text-gray-900 px-6 py-3 rounded-lg font-semibold">
+            Get Started
+          </button>
           </div>
         </div>
 
