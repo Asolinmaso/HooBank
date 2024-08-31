@@ -1,4 +1,3 @@
-// components/MetricsSection.js
 export const MetricsSection = () => {
     return (
       <section className="bg-gradient-to-r from-gray-900 via-gray-800 to-gray-900 py-10">
