@@ -1,4 +1,3 @@
-// components/ServiceCTA.js
 export const ServiceCTA =() => {
     return (
       <section className="bg-gray-900 py-16">
