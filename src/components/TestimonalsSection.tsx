@@ -1,4 +1,3 @@
-// components/TestimonialsSection.js
 import Image from 'next/image';
 
 export const TestimonialsSection = () => {
