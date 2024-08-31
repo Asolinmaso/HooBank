@@ -1,4 +1,3 @@
-// components/BrandSection.js
 import Image from 'next/image';
 
 export const BrandSection = () =>  {
