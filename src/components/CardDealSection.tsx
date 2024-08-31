@@ -1,4 +1,3 @@
-// components/CardDealSection.js
 import Image from 'next/image';
 
 export const CardDealSection = ()=> {
